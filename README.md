@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elif Berra Erik, I'm a senior computer science student
+- 👋 Hi, I’m Elif Berra Erik, I'm a computer science graduate
 - 👀 I’m mostly interested in data science but looking forward to gain experience in every field possible
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me: elifberraa@gmail.com
