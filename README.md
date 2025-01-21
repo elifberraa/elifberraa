@@ -13,6 +13,7 @@ Passionate about transforming data into meaningful insights.
 </div>
 
 <br>
+
 ## 🧐 More About Me:
 - 🎓 I'm a Computer Engineer specializing in Data Analysis.
 - 🛠️ Skilled in Power BI, Excel, SQL, Python, and Qlik Sense.
