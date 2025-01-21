@@ -16,9 +16,8 @@ Passionate about transforming data into meaningful insights.
 
 ## 🧐 More About Me:
 - 🎓 I'm a Computer Engineer specializing in Data Analysis.
-- 🛠️ Skilled in Power BI, Excel, SQL, Python, and Qlik Sense.
+- 🛠️ Skilled in Power BI, Excel, SQL, Python, and Tableau.
 - 🌟 Experienced in impactful projects, including:
   - Collaborating with a therapist to analyze exam stress in students, published on [IEEE Xplore](https://ieeexplore.ieee.org/document/9925379), [ResearchGate](https://www.researchgate.net/publication/371489377_Investigating_the_effects_of_stress_on_achievement_BIOSTRESS_dataset) and [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S235234092300416X?via%3Dihub).
   - Researching the impact of COVID-19 on education using Twitter data, published on [IEEE Xplore](https://ieeexplore.ieee.org/document/9925379) and [Scopus](https://www.scopus.com/record/display.uri?eid=2-s2.0-85142745700&origin=inward&txGid=10c23c49f824bc9836879a6ce32159ec).
-- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/elif-berra-erik/):)
-<br>
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/elif-berra-erik/) :)
