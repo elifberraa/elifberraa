@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Elif Berra Erik, I'm a computer science graduate
-- 👀 I’m mostly interested in data science but looking forward to gain experience in every field possible
-- 🌱 I’m currently learning machine learning
+- 👋 Hi, I’m Elif Berra Erik, I'm a computer engineer
+- 👀 I am specializing in data analysis, with experience in impactful projects
+- 🌱 I am enhancing my skills through a 1.5-year data analysis bootcamp at Kodlasam
 - 📫 How to reach me: elifberraa@gmail.com
 -    https://www.linkedin.com/in/elif-berra-erik-5677751b7
